@@ -9,7 +9,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace linear_sort
+namespace csharp_binary_search
 {
 	/// <summary>
 	/// SortIt() class performs an insertion sort on a dictionary object and has the property SortedResult
@@ -18,11 +18,9 @@ namespace linear_sort
 	{
 		
 		public List<KeyValuePair<string, string>> SortedResult = new List<KeyValuePair<string, string>>();
-			
-		//constructor, this is the thing that is called to instantiate the object LinearSort	
+		
 		public SortIt()
-		{
-			
+		{		
 		}	
 		
 		//insertionSort method

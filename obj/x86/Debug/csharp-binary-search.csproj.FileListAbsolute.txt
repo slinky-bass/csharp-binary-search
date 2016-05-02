@@ -1,0 +1,5 @@
+C:\Sites\csharp-binary-search\obj\x86\Debug\csharp-binary-search.csprojResolveAssemblyReference.cache
+C:\Sites\csharp-binary-search\bin\Debug\csharp-binary-search.exe
+C:\Sites\csharp-binary-search\bin\Debug\csharp-binary-search.pdb
+C:\Sites\csharp-binary-search\obj\x86\Debug\csharp-binary-search.exe
+C:\Sites\csharp-binary-search\obj\x86\Debug\csharp-binary-search.pdb
